@@ -1,9 +1,4 @@
-<center>
-## Hi there, I'm Rareș Bahamat. 👋
-</center>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulraresbahamat)](https://github.com/anuraghazra/github-readme-stats)
-
+<h2 align="center">Hi there, I'm Rareș Bahamat. 👋</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulraresbahamat/paulraresbahamat/output/pacman-contribution-graph-dark.svg">
